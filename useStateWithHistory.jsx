@@ -52,8 +52,8 @@ export const useStateWithHistory = (defaultValue, {capacity = 10}) => {
   
   
   return [value,  setValue,  {
-   history = historyRef.current,
-   pointer = pointerRef.current,
+   history : historyRef.current,
+   pointer : pointerRef.current,
    Set, go, back, forward
   } ]
 }
