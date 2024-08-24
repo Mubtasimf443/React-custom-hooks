@@ -3,7 +3,7 @@
 <h3>It contains a lot of react custom hook that you can you in in your project</h3>
  
 
- <h2 style="color:red">Hooks </h2>
+ <h3 style=>Hooks </h3>
 
 <ul>
     <li >useLocalStorage</li>
